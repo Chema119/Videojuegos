@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+p{
+    color: white;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(44, 51, 62);
+}
+h4 {
+    color: antiquewhite;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(44, 51, 62);
+}
+.parrafo1{
+    color: rgb(255, 255, 255);
+    font-size: 56;
+    background-color: rgb(44, 51, 62);
+}
+
+body {
+    font-size: xx-large;
+    background-color: rgb(195, 195, 195);
+    color: rgb(0, 0, 0);
+}
+
+ul{
+    display: flex ;
+    background-color: rgb(44, 51, 62);
+    flex-direction: row;
+    color: antiquewhite;
+    text-align: center;
+}
+ul > li {
+    display: inline-block;
+    margin: 30px;
+    padding: 50px;
+    color: antiquewhite;
+    text-align: center;
+    width: 400;
+    font-size: 40;
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+    font-family: Oswald;
+}
+
+a:hover{
+    
+   color: rgba(21, 124, 161, 0.333);
+}
+footer{
+    text-align: center;
+}
